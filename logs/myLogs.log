@@ -1,0 +1,140 @@
+[INFO ] 2021-10-10 10:51:58.378 [main] CommonOprations - message
+[INFO ] 2021-10-10 10:51:58.634 [main] CommonOprations - message
+[INFO ] 2021-10-10 10:51:58.864 [main] CommonOprations - message
+[INFO ] 2021-10-10 10:52:33.777 [main] CommonOprations - message
+[INFO ] 2021-10-10 11:00:36.581 [main] CommonOprations - **********************Scrolling for By.xpath: //*[text()='Test Insurance Company Reviews']*************************
+[INFO ] 2021-10-10 11:00:36.588 [main] CommonOprations - **********************Performing mouse hover on By.xpath: ((//*[text()='Most Recent'])/preceding::review-star[1]//child::*/descendant::button)[1]/preceding-sibling::*[1]*************************
+[INFO ] 2021-10-10 11:00:36.850 [main] CommonOprations - **********************Finding List of Elements for By.xpath: (//*[text()='Most Recent'])/preceding::review-star[1]//child::*/descendant::*[@fill='none']*************************
+[INFO ] 2021-10-10 11:00:36.912 [main] CommonOprations - **********************Performing mouse hover on By.xpath: ((//*[text()='Most Recent'])/preceding::review-star[1]//child::*/descendant::button)[2]/preceding-sibling::*[1]*************************
+[INFO ] 2021-10-10 11:00:37.127 [main] CommonOprations - **********************Finding List of Elements for By.xpath: (//*[text()='Most Recent'])/preceding::review-star[1]//child::*/descendant::*[@fill='none']*************************
+[INFO ] 2021-10-10 11:00:37.162 [main] CommonOprations - **********************Performing mouse hover on By.xpath: ((//*[text()='Most Recent'])/preceding::review-star[1]//child::*/descendant::button)[3]/preceding-sibling::*[1]*************************
+[INFO ] 2021-10-10 11:00:37.347 [main] CommonOprations - **********************Finding List of Elements for By.xpath: (//*[text()='Most Recent'])/preceding::review-star[1]//child::*/descendant::*[@fill='none']*************************
+[INFO ] 2021-10-10 11:00:37.369 [main] CommonOprations - **********************Performing mouse hover on By.xpath: ((//*[text()='Most Recent'])/preceding::review-star[1]//child::*/descendant::button)[4]/preceding-sibling::*[1]*************************
+[INFO ] 2021-10-10 11:00:37.537 [main] CommonOprations - **********************Finding List of Elements for By.xpath: (//*[text()='Most Recent'])/preceding::review-star[1]//child::*/descendant::*[@fill='none']*************************
+[INFO ] 2021-10-10 11:00:37.568 [main] CommonOprations - **********************Performing mouse hover on By.xpath: ((//*[text()='Most Recent'])/preceding::review-star[1]//child::*/descendant::button)[5]/preceding-sibling::*[1]*************************
+[INFO ] 2021-10-10 11:00:37.755 [main] CommonOprations - **********************Finding List of Elements for By.xpath: (//*[text()='Most Recent'])/preceding::review-star[1]//child::*/descendant::*[@fill='none']*************************
+[INFO ] 2021-10-10 11:00:37.829 [main] CommonOprations - **********************Scrolling for By.xpath: //*[text()='Test Insurance Company Reviews']*************************
+[INFO ] 2021-10-10 11:00:37.830 [main] CommonOprations - **********************Performing mouse hover on By.xpath: ((//*[text()='Most Recent'])/preceding::review-star[1]//child::*/descendant::button)[1]/preceding-sibling::*[1]*************************
+[INFO ] 2021-10-10 11:00:38.005 [main] CommonOprations - **********************Finding List of Elements for By.xpath: (//*[text()='Most Recent'])/preceding::review-star[1]//child::*/descendant::*[@fill='none']*************************
+[INFO ] 2021-10-10 11:00:38.034 [main] CommonOprations - **********************Performing mouse hover on By.xpath: ((//*[text()='Most Recent'])/preceding::review-star[1]//child::*/descendant::button)[2]/preceding-sibling::*[1]*************************
+[INFO ] 2021-10-10 11:00:38.207 [main] CommonOprations - **********************Finding List of Elements for By.xpath: (//*[text()='Most Recent'])/preceding::review-star[1]//child::*/descendant::*[@fill='none']*************************
+[INFO ] 2021-10-10 11:00:38.235 [main] CommonOprations - **********************Performing mouse hover on By.xpath: ((//*[text()='Most Recent'])/preceding::review-star[1]//child::*/descendant::button)[3]/preceding-sibling::*[1]*************************
+[INFO ] 2021-10-10 11:00:38.408 [main] CommonOprations - **********************Finding List of Elements for By.xpath: (//*[text()='Most Recent'])/preceding::review-star[1]//child::*/descendant::*[@fill='none']*************************
+[INFO ] 2021-10-10 11:00:38.436 [main] CommonOprations - **********************Performing mouse hover on By.xpath: ((//*[text()='Most Recent'])/preceding::review-star[1]//child::*/descendant::button)[4]/preceding-sibling::*[1]*************************
+[INFO ] 2021-10-10 11:00:38.608 [main] CommonOprations - **********************Finding List of Elements for By.xpath: (//*[text()='Most Recent'])/preceding::review-star[1]//child::*/descendant::*[@fill='none']*************************
+[INFO ] 2021-10-10 11:00:38.635 [main] CommonOprations - **********************Performing mouse hover on By.xpath: ((//*[text()='Most Recent'])/preceding::review-star[1]//child::*/descendant::button)[5]/preceding-sibling::*[1]*************************
+[INFO ] 2021-10-10 11:00:38.796 [main] CommonOprations - **********************Finding List of Elements for By.xpath: (//*[text()='Most Recent'])/preceding::review-star[1]//child::*/descendant::*[@fill='none']*************************
+[INFO ] 2021-10-10 11:00:38.824 [main] CommonOprations - **********************Performing mouse hover on By.xpath: (//*[text()='Most Recent'])/preceding::review-star[1]/child::*/descendant::button[4]/preceding-sibling::*[1]*************************
+[INFO ] 2021-10-10 11:00:39.015 [main] CommonOprations - **********************Finding List of Elements for By.xpath: (//*[text()='Most Recent'])/preceding::review-star[1]//child::*/descendant::*[@fill='none']*************************
+[INFO ] 2021-10-10 11:00:39.041 [main] CommonOprations - **********************Performing mouse hover on By.xpath: (//*[text()='Most Recent'])/preceding::review-star[1]/child::*/descendant::button[4]/preceding-sibling::*[1]*************************
+[INFO ] 2021-10-10 11:00:39.315 [main] CommonOprations - **********************Finding List of Elements for By.xpath: //span[text()='Select...']/preceding::review-star[1]//child::*/descendant::*[@fill='none']*************************
+[INFO ] 2021-10-10 11:00:39.357 [main] CommonOprations - **********************Waiting for element By.xpath: //span[text()='Select...']*************************
+[INFO ] 2021-10-10 11:00:39.451 [main] CommonOprations - **********************Clicking on element for By.xpath: //span[text()='Select...']*************************
+[INFO ] 2021-10-10 11:00:39.452 [main] CommonOprations - **********************Waiting for element By.xpath: //span[text()='Select...']*************************
+[INFO ] 2021-10-10 11:00:39.645 [main] CommonOprations - **********************Waiting for element By.xpath: //li[text()='Health Insurance']*************************
+[INFO ] 2021-10-10 11:00:39.689 [main] CommonOprations - **********************Clicking on element for By.xpath: //li[text()='Health Insurance']*************************
+[INFO ] 2021-10-10 11:00:39.689 [main] CommonOprations - **********************Waiting for element By.xpath: //li[text()='Health Insurance']*************************
+[INFO ] 2021-10-10 11:00:39.842 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:39.916 [main] CommonOprations - **********************Clicking on element for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:39.917 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:40.158 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:40.217 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:40.399 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:40.455 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:40.554 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:40.621 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:40.756 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:40.822 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:40.921 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:40.979 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:41.078 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:41.137 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:41.244 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:41.303 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:41.409 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:41.465 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:41.581 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:41.639 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:41.736 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:41.790 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:41.888 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:41.942 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:42.040 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:42.093 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:42.210 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:42.262 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:42.368 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:42.421 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:42.525 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:42.583 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:42.680 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:42.732 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:42.792 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:42.818 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:42.879 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:42.907 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:42.975 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:43.003 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:43.061 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:43.090 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:43.141 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:43.173 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:43.261 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:43.312 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:43.403 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:43.440 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:43.487 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:43.516 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:43.569 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:43.618 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:43.709 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:43.763 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:43.874 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:43.906 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:43.955 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:43.982 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:44.027 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:44.051 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:44.105 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:44.134 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:44.181 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:44.209 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:44.272 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:44.301 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:44.357 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:44.387 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:44.447 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:44.478 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:44.528 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:44.555 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:44.608 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:44.636 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:44.691 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:44.722 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:44.790 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:44.831 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:44.909 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:44.936 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:44.987 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:45.014 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:45.059 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:45.082 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:45.128 [main] CommonOprations - **********************Waiting for element By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:45.155 [main] CommonOprations - **********************Sending keys for By.xpath: //textarea[@placeholder='Write your review...']*************************
+[INFO ] 2021-10-10 11:00:45.206 [main] CommonOprations - **********************Waiting for element By.xpath: //a[text()='Login']*************************
+[ERROR] 2021-10-10 11:01:15.741 [main] CommonOprations - **********************Element is not visible for By.xpath: //a[text()='Login']*************************
+[TRACE] 2021-10-10 11:01:15.741 [main] CommonOprations - Expected condition failed: waiting for visibility of element located by By.xpath: //a[text()='Login'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-ENB8TQR2', ip: '192.168.0.107', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.71, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\sande\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56910}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0799124babec5a21a3d2f19a518a1054
+[INFO ] 2021-10-10 11:01:15.742 [main] CommonOprations - **********************Clicking on element for By.xpath: //a[text()='Login']*************************
+[INFO ] 2021-10-10 11:01:15.742 [main] CommonOprations - **********************Waiting for element By.xpath: //a[text()='Login']*************************
+[ERROR] 2021-10-10 11:01:45.784 [main] CommonOprations - **********************Element is not clickable for By.xpath: //a[text()='Login']*************************
+[TRACE] 2021-10-10 11:01:45.784 [main] CommonOprations - Expected condition failed: waiting for element to be clickable: By.xpath: //a[text()='Login'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-ENB8TQR2', ip: '192.168.0.107', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.71, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: C:\Users\sande\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:56910}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0799124babec5a21a3d2f19a518a1054

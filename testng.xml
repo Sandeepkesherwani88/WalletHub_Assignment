@@ -1,0 +1,19 @@
+ <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Page Object test example">
+	<!-- <parameter name="appURL" value="https://www.facebook.com/login.php" 
+		/> -->
+	<!-- <parameter name="appURL" value="https://wallethub.com/join/light"/> -->
+	<parameter name="appURL"
+		value="https://wallethub.com/profile/test-insurance-company-13732055i" />
+	<parameter name="browserType" value="chrome" />
+	<test name="sample test">
+		<classes>
+			<!-- <class name="com.pack.common.tests.BasePageTest"/> <class name="com.pack.common.tests.SignInPageTest"/> 
+				<class name="com.pack.common.tests.CreateAnAccounTest"/> -->
+			<!-- <class name="com.pack.common.tests.FacebookPageLoginTest"/> -->
+			<!-- <class name="com.pack.common.tests.FacebookHomePageTest"/> -->
+			<!-- <class name="com.pack.common.tests.WalletHubLoginPageTest"/> -->
+			<class name="com.pack.common.tests.WalletHubReviewPageTest" />
+		</classes>
+	</test>
+</suite>
