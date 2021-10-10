@@ -1,0 +1,12 @@
+Note: We can pass the browser and appURL through testng.xml file.
+      I have added the code for deleting the created post.
+
+Assignment 1:
+	Step 1: provide the value of useName and password in textDataProperties.properties file present in src/main/resource folder.
+	Step 2: Update testng.xml file - <parameter name="appURL" value="https://www.facebook.com/login.php"/> and <class name="com.pack.common.tests.FacebookHomePageTest"/>
+	step 3: Once test case is exeuted please refer the FacebookHomePage.png file for created facebook post screenshots.
+
+Assignment 2:
+	Step 1: provide the value of useName and password in textDataProperties.properties file present in src/main/resource folder.
+	Step 2: Update testng.xml file - <parameter name="appURL" value="https://wallethub.com/profile/test-insurance-company-13732055i"/> and <class name="com.pack.common.tests.WalletHubReviewPageTest"/>
+	step 3: Once test case is exeuted please refer the WalletHubReviewPage.png file for created review post screenshots.
