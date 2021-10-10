@@ -1,4 +1,5 @@
 Note: We can pass the browser and appURL through testng.xml file.
+      Please place or download the chrome driver in TestBaseSetup class and variable driverPath = "C:\\Drivers\\chromedriver_win32 (1)\\";
       I have added the code for deleting the created post.
 
 Assignment 1:
